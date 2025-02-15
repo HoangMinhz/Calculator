@@ -18,7 +18,8 @@ namespace Calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hahaha")
+            int ketqua = Int32.Parse(textBox1.Text) + Int32.Parse(textBox2.Text);
+            MessageBox.Show(ketqua.ToString());
         }
     }
 }
