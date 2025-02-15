@@ -6,3 +6,5 @@ D:\1\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
 D:\1\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\1\Calculator\Calculator\obj\Debug\Calculator.pdb
 D:\1\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\taive\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\taive\Calculator\Calculator\obj\Debug\Calculator.pdb
